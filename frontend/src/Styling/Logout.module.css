@@ -1,0 +1,19 @@
+.screen{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #AD1457;
+    font-size: 100px;
+    width: fit-content;
+}
+
+.btn:hover{
+    background-color: #E64A19;
+}
